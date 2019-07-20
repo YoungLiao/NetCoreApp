@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsService1": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
