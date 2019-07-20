@@ -12,7 +12,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.RequestPath = HttpContext.Request.Path.Value;
+            //ViewBag.RequestPath = HttpContext.Request.Path.Value;
             return View();
         }
 
